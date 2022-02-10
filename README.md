@@ -6,6 +6,6 @@ I will take you through a journey of projects that align with my interests in im
 
 Please see the example projects housed in this portfolio! 
 
-## Project 1: The Discovery of Handwashing: Project Overview
+## [Project 1: The Discovery of Handwashing: Project Overview](https://github.com/Temi202/Data_Science_Portfolio)
 * details about project 1
 * 

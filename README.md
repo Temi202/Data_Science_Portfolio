@@ -1,4 +1,4 @@
-# Ntemena_Portfolio
+# Data Science Portfolio__Ntemena
 
 Welcome to my data science portfolio! 
 
